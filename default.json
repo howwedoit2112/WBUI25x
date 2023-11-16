@@ -1,46 +1,46 @@
 {
-    "WBUI2": {
-      "settings": {
-          "OpenButton": 0,
-          "HideIcon": false,
-          "HideIconAfter": 60,
-          "IconURL": "https://i.imgur.com/7q0k3BZ.png",
-          "DisableIconText": false,
-          "IconPosition": 0,
-          "IconTextColor": 0,
-          "OpenOnStart": true,
-          "OpenOnStartOnlyNewPlayers": true,
-          "UpdateInterval": 12
-        },
-      "tabs": [
-        {
-          "tab1": {
-            "layout": 1,
-            "buttontext": "Welcome",
-            "title1": "Welcome to TriHardGaming!",
-            "text1": "I hope you put on your big boy pants, because you're about to TriHard.\n\nWe currently have three servers running:\n\n\n25x PVP\n10x PVP\n5x PVE\n\nIn this menu you'll find some useful information to help you.\n\nPlease use the Discord icon in the bottom-left of the menu to join our Discord server.",
-            "imageurl": "https://i.imgur.com/Pqq3CKg.png"
-          }
-        },
-        {
-          "tab2": {
-            "layout": 2,
-            "buttontext": "Settings",
-            "title1": "Rates",
-            "text1": "The rates on our servers are:\n\n25x PVP\n10x PVP\n5x PVE\n\n\n10-man Tribe Size\n\n\nYou can find more information about the rates on our Discord server.",
-            "title2": "Drops",
-            "text2": "All drops except white drops contain Weapons and Tools\n\n\nWhite: Boss drops\n\nGreen: Consumables and Kibble\nCloth and Hide Armor\nBeginner Saddles\n\nBlue: Resources\nChitin and Ghillie Armor\nBeginner/Mid-Game Saddles\n\nPurple: Scuba\nSaddles\nResourcse\nMid-game Saddles\n\nYellow: Flak and Riot Armor\nResources\nLate-Game Saddles\n\nRed: Flak and Riot Armor\nLate-Game & Tek Saddles\n\n\nYou can find more information about the drops on our Discord server.",
-            "imageurl": "https://i.imgur.com/Pqq3CKg.png"
-          }
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": false,
+      "HideIconAfter": 60,
+      "IconURL": "https://i.imgur.com/7q0k3BZ.png",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Welcome to TriHardGaming!",
+          "text1": "I hope you put on your big boy pants, because you're about to TriHard.\n\nWe currently have three servers running:\n\n\n25x PVP\n10x PVP\n5x PVE\n\nIn this menu you'll find some useful information to help you.\n\nPlease use the Discord icon in the bottom-left of the menu to join our Discord server.",
+          "imageurl": "https://i.imgur.com/Pqq3CKg.png"
         }
-      ],
-      "links": [
-        {
-          "link1": {
-            "text": "Discord",
-            "url": "https://discord.gg/9SwsV2TW3s",
-          }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Settings",
+          "title1": "Rates",
+          "text1": "The rates on our servers are:\n\n25x PVP\n10x PVP\n5x PVE\n\n\n10-man Tribe Size\n\n\nYou can find more information about the rates on our Discord server.",
+          "title2": "Drops",
+          "text2": "All drops except white drops contain Weapons and Tools\n\n\nWhite: Boss drops\n\nGreen: Consumables and Kibble\nCloth and Hide Armor\nBeginner Saddles\n\nBlue: Resources\nChitin and Ghillie Armor\nBeginner/Mid-Game Saddles\n\nPurple: Scuba\nSaddles\nResourcse\nMid-game Saddles\n\nYellow: Flak and Riot Armor\nResources\nLate-Game Saddles\n\nRed: Flak and Riot Armor\nLate-Game & Tek Saddles\n\n\nYou can find more information about the drops on our Discord server.",
+          "imageurl": "https://i.imgur.com/Pqq3CKg.png"
         }
-      ]
-    }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/9SwsV2TW3s"
+        }
+      }
+    ]
   }
+}
